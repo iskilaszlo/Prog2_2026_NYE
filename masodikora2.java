@@ -13,6 +13,6 @@ public class masodikora2 {
 
         System.out.println("Távolság: " + (ido * 300) + " m");
 
-        input.close();
     }
 }
+
